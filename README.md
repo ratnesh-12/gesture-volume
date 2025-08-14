@@ -1,15 +1,14 @@
-Gesture Volume Control
+# Gesture Volume Control
+Control your system volume in real-time using hand gestures via your webcam!
 
-Control your system volume using hand gestures with your webcam! This project uses MediaPipe for hand detection and OpenCV for webcam input.
+This project uses MediaPipe for hand tracking and OpenCV for webcam input. It detects a pinch gesture between your thumb and index finger to adjust the system volume smoothly.
 
-Features
+# Features
 
-Adjust system volume by pinching your thumb and index finger.
+Adjust system volume using hand gestures.
 
-Smooth volume control with rolling average to avoid sudden jumps.
+Smooth volume changes with rolling average.
 
-Real-time display of volume percentage on screen.
+Real-time display of volume percentage and a visual bar.
 
-Modular code structure: logic separated into gesture_volume.py.
-
-Folder Structure
+Modular design with logic separated into gesture_volume.py.
