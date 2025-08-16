@@ -30,13 +30,13 @@ This project uses your webcam to detect your hand and adjusts the system volume 
 ## 📂 Project Structure
 gesture-volume/
 
-│── main.py # Entry point of the project
+│── main.py 
 
-│── gesture_volume.py # Contains core gesture-volume logic
+│── gesture_volume.py
 
-│── requirements.txt # Python dependencies
+│── requirements.txt 
 
-│── README.md # Project documentation
+│── README.md 
 
 ## ⚙️ Installation & Setup
 
