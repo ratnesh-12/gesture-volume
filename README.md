@@ -29,9 +29,13 @@ This project uses your webcam to detect your hand and adjusts the system volume 
 
 ## 📂 Project Structure
 gesture-volume/
+
 │── main.py # Entry point of the project
+
 │── gesture_volume.py # Contains core gesture-volume logic
+
 │── requirements.txt # Python dependencies
+
 │── README.md # Project documentation
 
 ## ⚙️ Installation & Setup
@@ -49,7 +53,7 @@ gesture-volume/
 3. Install dependencies:
    ```
    pip install -r requirements.txt
-Usage
+## ▶️ Usage
 
 Run the following command to start the project:
 ```
@@ -60,7 +64,7 @@ Show your hand in front of the webcam
 Move fingers closer/farther to increase/decrease volume
 
 Press 'q' to quit
-# Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! If you’d like to make this project better, feel free to fork and contribute.
    
