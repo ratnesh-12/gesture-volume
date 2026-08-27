@@ -1,4 +1,4 @@
-# 🎵 Gesture Volume Control (built using with the help of LLM, for learning purpose)
+# 🎵 Gesture Volume Control (built with the help of LLM, for learning purpose)
 
 Control your system volume using **hand gestures** with the help of Python, OpenCV, and MediaPipe.  
 This project uses your webcam to detect your hand and adjusts the system volume based on the distance between your fingers.  
